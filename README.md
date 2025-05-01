@@ -68,7 +68,7 @@ Shriram U V
 Mrs. Hemalatha R, 
 Assistant Professor, ECE Department, KIOT
 
-⭐Thank you for visiting our repository!   
+⭐Thank you for visiting my repository!   
 
 
 
