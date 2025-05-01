@@ -5,14 +5,14 @@ This project marks our first venture into the world of Embedded Systems and IoT 
 It focuses on real-time health monitoring, specifically designed to detect blood flow issues and potential clots in the cardiovascular system using a smart wearable device.
 
 🧠 Problem Statement :
-Current monitoring methods for blood flow are often: 
+Current monitoring methods for blood flow are often,  
 • Invasive
 • Time-consuming
 • Lack real-time data
 This makes it difficult for healthcare professionals to continuously and effectively track a patient's condition.
 
 ✅ Proposed Solution :
-This project introduces a wearable IoT-based device that: 
+This project introduces a wearable IoT-based device that:  
 🔄 Continuously monitors cardiovascular blood flow
 🩸 Detects clots or blockages in real-time
 🚨 Sends alerts based on user-defined health thresholds
@@ -45,10 +45,10 @@ This project introduces a wearable IoT-based device that:
 🧑‍🤝‍🧑 Enables caregiver-patient communication
 
 📌 Conclusion:
-🌍 Improved Monitoring: Continuous tracking enhances patient safety
-✅ Wider Accessibility: Designed to be affordable and scalable
-🛎️ Real-Time Alerts: Instant notifications for abnormal health events
-👨‍👩‍👧‍👦 Caregiver Support: Facilitates better communication and monitoring between patients and caregivers.
+🌍 Improved Monitoring- Continuous tracking enhances patient safety
+✅ Wider Accessibility- Designed to be affordable and scalable
+🛎️ Real-Time Alerts- Instant notifications for abnormal health events
+👨‍👩‍👧‍👦 Caregiver Support- Facilitates better communication and monitoring between patients and caregivers.
 
 🏆 Achievements:
 🥇 Selected for the Hackathon Finale at Manakula Vinayagar Engineering College.
