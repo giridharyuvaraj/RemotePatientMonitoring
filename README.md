@@ -58,14 +58,14 @@ This project introduces a wearable IoT-based device that:
 
 👨‍🎓 Team Members
 
-Giridhar Y
-Rohini M
-Harini R G
-Rajeswari S
+Giridhar Y, 
+Rohini M, 
+Harini R G, 
+Rajeswari S, 
 Shriram U V
 
 🧑‍🏫 Guided By
-Mrs. Hemalatha R
+Mrs. Hemalatha R, 
 Assistant Professor, ECE Department, KIOT
 
 ⭐Thank you for visiting our repository!   
